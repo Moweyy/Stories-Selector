@@ -147,24 +147,23 @@ main {
 }
 
 .details__title {
-    max-width: 80%;
+    max-width: 60%;
+    margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
 }
 
 .details__title .foodphotogtitle, .vanitytitle {
-    font-size: 1.5em !important;
+    font-size: 1.3em !important;
 }
 
 .details__title .sweeptitle {
-    font-size: 2.4em !important;
 }
 
 
 
 .details__subtitle {
-    max-width: 80%;
+    max-width: 60%;
     overflow: scroll;
     height: 1000px;
     margin-left: auto;

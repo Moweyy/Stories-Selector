@@ -144,7 +144,7 @@ section:nth-child(even) {
 /* SCROLLBAR STYLING */
 
 ::-webkit-scrollbar {
-    width: 6px;
+    width: 0px;
 }
 
 ::-webkit-scrollbar-track {
@@ -219,12 +219,10 @@ section:nth-child(even) {
     font-size: 1.2em !important;
 }
 
-
 .hidden {
     width: 100%;
     height: auto;
     background-image: var(--gradient-duo);    
-    
 }
 
 .supermum {
@@ -267,6 +265,81 @@ section:nth-child(even) {
 
 #vfxworks h4, p {
     color: #FFF;
+}
+
+.poster1slot {
+	
+	background-image: url(../img/VFX/poster1.jpg);
+	height: 1100px;
+    background-size: cover;
+	transition: 0.2s;
+}
+
+.poster1slot:hover{
+	background-image: url(../img/VFX/poster1hover.png);
+	transition: 0.2s;
+
+}
+
+.poster2slot {
+	
+	background-image: url(../img/VFX/poster2.jpg);
+	height: 1100px;
+    background-size: cover;
+	transition: 0.2s;
+}
+
+.poster2slot:hover{
+	background-image: url(../img/VFX/poster2hover.png);
+	transition: 0.2s;
+
+}
+
+.poster2slot img:hover{
+	background-image: url(../img/VFX/poster2hover.png) !important;
+	display: none;
+	transition: 0.2s;
+}
+
+.poster3slot {
+	
+	background-image: url(../img/VFX/poster3.jpeg);
+	height: 1100px;
+    background-size: cover;
+	transition: 0.2s;
+}
+
+.poster3slot:hover{
+	background-image: url(../img/VFX/poster3hover.png);
+	transition: 0.2s;
+
+}
+
+.poster4slot {
+	
+	background-image: url(../img/VFX/poster4.jpg);
+	height: 1100px;
+    background-size: cover;
+	transition: 0.2s;
+}
+
+.poster4slot:hover{
+	background-image: url(../img/VFX/poster4hover.png);
+	transition: 0.2s;
+
+}
+
+.poster5slot {
+	
+	background-image: url(../img/VFX/poster5.jpeg);
+	height: 1100px;
+    background-size: cover;
+	transition: 0.2s;
+}
+
+.poster5slot:hover{
+	background-image: url(../img/VFX/poster5hover.png);
+	transition: 0.2s;
 }
 
 /* [ -------------------- 08 MEDIA QUERIES -------------------- ] */
