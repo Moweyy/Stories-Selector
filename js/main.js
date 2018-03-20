@@ -58,6 +58,8 @@
             };
         }
         open(data) {
+            document.body.style.overflow = "hidden";
+            
             if ( this.isAnimating ) return false;
             this.isAnimating = true;
 
@@ -128,6 +130,8 @@
             });
         }
         close() {
+            document.body.style.overflow = "scroll";
+            
             if ( this.isAnimating ) return false;
             this.isAnimating = true;
 
