@@ -444,6 +444,6 @@ section:nth-child(even) {
     
     /* Container Sizing */
     .container {
-        max-width: none;
+        max-width: 2200px;
     }
 }
