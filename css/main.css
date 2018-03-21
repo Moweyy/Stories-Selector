@@ -426,22 +426,8 @@ section:nth-child(even) {
     /* A. TYPOGRAPHY */
     body,
     p {
-        font-size: 17px
+        font-size: 15px
     }
-    
-    h1 {
-	  font-size: 3.041em !important;
-	}
-	h2 {
-		font-size: 2.453em !important;
-	}
-	h3 {
-		font-size: 2.163em !important;
-	}
-	h4 {
-		font-size: 1.9em !important;
-	}
-    
     /* Container Sizing */
     .container {
         max-width: 2200px;
