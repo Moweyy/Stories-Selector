@@ -430,6 +430,6 @@ section:nth-child(even) {
     }
     /* Container Sizing */
     .container {
-        max-width: 2200px;
+        max-width: none;
     }
 }
