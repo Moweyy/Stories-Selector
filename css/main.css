@@ -225,8 +225,26 @@ section:nth-child(even) {
     background-image: var(--gradient-duo);    
 }
 
+/* Manual Masonry Effect */
+
 .supermum {
-    margin-top: -30px !important;
+    margin-top: -60px !important;
+}
+
+.vanity {
+    margin-top: -120px !important;
+}
+
+.messiah {
+    margin-top: -190px !important;
+}
+
+.travel-couple {
+    margin-top: -230px !important;
+}
+
+.bb {
+    margin-top: -26px !important;
 }
 
 /* [ -------------------- 04 RADIO STYLING -------------------- ] */
