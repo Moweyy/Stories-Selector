@@ -284,6 +284,18 @@ section:nth-child(even) {
     z-index: 1;
 }
 
+.policyblock {
+    width: 450px; 
+    height: 55px;
+    margin-left: 0px; 
+    margin-right: auto;
+    margin-top: 150px;
+    display: block; 
+    cursor: pointer;
+    position: absolute; 
+    z-index: 1;
+}
+
 .radiotitle {
 }
 
