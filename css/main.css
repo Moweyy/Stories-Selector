@@ -274,9 +274,9 @@ section:nth-child(even) {
 }
 
 .playbtn {
-    width: 150px; 
+    width: 400px; 
     height: 95px;
-    margin-left: 300px; 
+    margin-left: 56px; 
     margin-right: auto; 
     display: block; 
     cursor: pointer;
