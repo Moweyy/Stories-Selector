@@ -78,7 +78,6 @@
 
 .slick-prev
 {
-    left: -25px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -100,7 +99,6 @@
     top: -20px;
 	color: #D100FF;
     background-color: purple;
-	display: none !important;
 }
 [dir='rtl'] .slick-next
 {
