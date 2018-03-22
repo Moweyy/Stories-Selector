@@ -275,11 +275,11 @@ section:nth-child(even) {
 
 .playbtn {
     width: 130px; 
-    height: 45px;
+    height: 55px;
     margin-left: 320px; 
     margin-right: auto; 
     display: block; 
-    margin-top: 18px; 
+    margin-top: 14px; 
     cursor: pointer;
     position: absolute; 
     z-index: 1;
