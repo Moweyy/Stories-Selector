@@ -312,14 +312,14 @@ section:nth-child(even) {
 
 .poster1slot {
 	
-	background-image: url(../img/VFX/poster1.jpg);
+	background-image: url(../img/VFX/tv-vfxprodplaceholder1.jpg);
 	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
 
 .poster1slot:hover{
-	background-image: url(../img/VFX/poster1hover.png);
+	background-image: url(../img/VFX/tv-vfxprodplaceholder1.png);
 	transition: 0.2s;
 
 }
