@@ -313,7 +313,7 @@ section:nth-child(even) {
 .poster1slot {
 	
 	background-image: url(../img/VFX/poster1.jpg);
-	height: 1100px;
+	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -327,7 +327,7 @@ section:nth-child(even) {
 .poster2slot {
 	
 	background-image: url(../img/VFX/poster2.jpg);
-	height: 1100px;
+	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -347,7 +347,7 @@ section:nth-child(even) {
 .poster3slot {
 	
 	background-image: url(../img/VFX/poster3.jpeg);
-	height: 1100px;
+	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -361,7 +361,7 @@ section:nth-child(even) {
 .poster4slot {
 	
 	background-image: url(../img/VFX/poster4.jpg);
-	height: 1100px;
+	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -375,7 +375,7 @@ section:nth-child(even) {
 .poster5slot {
 	
 	background-image: url(../img/VFX/poster5.jpeg);
-	height: 1100px;
+	height: 550px;
     background-size: cover;
 	transition: 0.2s;
 }
