@@ -258,7 +258,6 @@ section:nth-child(even) {
 .swiper-container {
     width: 100%;
     padding-top: 20px;
-    padding-bottom: 50px;
 }
 
 .swiper-slide {
