@@ -313,9 +313,10 @@ section:nth-child(even) {
 .poster1slot {
 	
 	background-image: url(../img/VFX/tv-vfxprodplaceholder1.jpg);
-	height: 550px;
+	height: 1100px;
     background-size: cover;
-	transition: 0.2s;
+    transition: 0.2s;
+    background-position: center center;
 }
 
 .poster1slot:hover{
@@ -327,7 +328,7 @@ section:nth-child(even) {
 .poster2slot {
 	
 	background-image: url(../img/VFX/poster2.jpg);
-	height: 550px;
+	height: 1100px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -347,7 +348,7 @@ section:nth-child(even) {
 .poster3slot {
 	
 	background-image: url(../img/VFX/poster3.jpeg);
-	height: 550px;
+	height: 1100px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -361,7 +362,7 @@ section:nth-child(even) {
 .poster4slot {
 	
 	background-image: url(../img/VFX/poster4.jpg);
-	height: 550px;
+	height: 1100px;
     background-size: cover;
 	transition: 0.2s;
 }
@@ -375,7 +376,7 @@ section:nth-child(even) {
 .poster5slot {
 	
 	background-image: url(../img/VFX/poster5.jpeg);
-	height: 550px;
+	height: 1100px;
     background-size: cover;
 	transition: 0.2s;
 }
