@@ -42,17 +42,22 @@
     z-index: 999999;
 }
 .slick-prev:hover{
-    background-image: url(img/VFX/arrowprev2hover.png);
+    background-image: url(img/VFX/prev.png);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
     transition: all .4s ease-in-out;
 
 }
-.slick-prev:focus,
+.slick-prev:focus,{
+
+
+}
+
+
 .slick-next:hover
 {
-    background-image: url(img/VFX/arrownext2hover.png);
+    background-image: url(img/VFX/next.png);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
@@ -87,7 +92,7 @@
 
 .slick-prev
 {
-    background-image: url(img/VFX/arrowprev2.png);
+    background-image: url(img/VFX/prev.png);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
@@ -100,7 +105,7 @@
 }
 .slick-prev:before
 {
-    background-image: url(img/VFX/arrowprev2.png);
+    background-image: url(img/VFX/prev.png);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
@@ -113,7 +118,7 @@
 {
     right: 25px;
 	
-    background-image: url(img/VFX/arrownext2.png);
+    background-image: url(img/VFX/next.png);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
