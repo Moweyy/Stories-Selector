@@ -165,7 +165,7 @@ section:nth-child(even) {
     background-color: var(--primary-1);
     padding: 16px;
     box-shadow: var(--shadow-md);
-    border-radius: var(--br);
+    /* border-radius: var(--br); */
     position: relative;
 }
 
