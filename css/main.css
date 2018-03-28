@@ -165,7 +165,7 @@ section:nth-child(even) {
     background-color: var(--primary-1);
     padding: 16px;
     box-shadow: var(--shadow-md);
-    /* border-radius: var(--br); */
+    border-radius: var(--br);
     position: relative;
 }
 
@@ -302,7 +302,7 @@ section:nth-child(even) {
 
 #vfxworks {
     width: 100%;
-    height: auto;
+    height: 1440px;
     background-image: linear-gradient(to left, #4b2543 0%, #2e233f 54%, #24112a 100%);        
 }
 
@@ -312,7 +312,7 @@ section:nth-child(even) {
 
 .poster1slot {
 	
-	background-image: url(../img/VFX/tv-vfxprodplaceholder1.jpg);
+	background-image: url(../img/VFX/Catherine-thumbnail.png);
 	height: 1100px;
     background-size: cover;
     transition: 0.2s;
@@ -320,55 +320,63 @@ section:nth-child(even) {
 }
 
 .poster1slot:hover{
-	background-image: url(../img/VFX/tv-vfxprodplaceholder1.png);
-	transition: 0.2s;
+	background-image: url(../img/VFX/Catherine-thumbnailhover.png);
+    transition: 0.2s;
+    background-position: center center;
+
 
 }
 
 .poster2slot {
 	
-	background-image: url(../img/VFX/poster2.jpg);
+	background-image: url(../img/VFX/Daniel-thumbnail.png);
 	height: 1100px;
     background-size: cover;
-	transition: 0.2s;
+    transition: 0.2s;
+    background-position: center center;
+
 }
 
 .poster2slot:hover{
-	background-image: url(../img/VFX/poster2hover.png);
+	background-image: url(../img/VFX/Daniel-thumbnailhover.png);
 	transition: 0.2s;
 
 }
 
 .poster2slot img:hover{
-	background-image: url(../img/VFX/poster2hover.png) !important;
+	background-image: url(../img/VFX/Daniel-thumbnailhover.png) !important;
 	display: none;
 	transition: 0.2s;
 }
 
 .poster3slot {
 	
-	background-image: url(../img/VFX/poster3.jpeg);
+	background-image: url(../img/VFX/Marshal-thumbnail.png);
 	height: 1100px;
     background-size: cover;
-	transition: 0.2s;
+    transition: 0.2s;
+    background-position: center center;
+
 }
 
 .poster3slot:hover{
-	background-image: url(../img/VFX/poster3hover.png);
+	background-image: url(../img/VFX/Marshal-thumbnailhover.png);
 	transition: 0.2s;
 
 }
 
 .poster4slot {
 	
-	background-image: url(../img/VFX/poster4.jpg);
+	background-image: url(../img/VFX/Satria-thumbnail.png);
 	height: 1100px;
     background-size: cover;
-	transition: 0.2s;
+    transition: 0.2s;
+    background-position: center center;
+
 }
 
 .poster4slot:hover{
-	background-image: url(../img/VFX/poster4hover.png);
+	background-image: url(../img/VFX/Satria-thumbnailhover.png);
 	transition: 0.2s;
 
 }
@@ -378,7 +386,9 @@ section:nth-child(even) {
 	background-image: url(../img/VFX/poster5.jpeg);
 	height: 1100px;
     background-size: cover;
-	transition: 0.2s;
+    transition: 0.2s;
+    background-position: center center;
+
 }
 
 .poster5slot:hover{
